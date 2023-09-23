@@ -1,6 +1,6 @@
 # Internship Tasks Repository
 
-Welcome to my Internship Tasks Repository! This repository contains a collection of projects I completed during my internship. These projects showcase my growth, skills, and learning journey over the course of the internship.
+Welcome to my Internship Tasks Repository! This repository contains a collection of projects I completed during my internship at CodSoft as  Java Developer. These projects showcase my growth, skills, and learning journey over the course of the internship.
 
 ## Projects Included
 
