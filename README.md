@@ -32,3 +32,5 @@ This repository serves as a portfolio of my work during my internship, demonstra
 I hope you find these projects insightful and inspiring for your own coding endeavors. Feel free to reach out if you have any questions or suggestions!
 
 Thank you for visiting my repository!
+
+Arghya Pal
